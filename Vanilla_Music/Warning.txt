@@ -1,0 +1,3 @@
+Make sure to place all the music files with uppercase in this directory, otherwise the transference wont work. 
+
+Example: 3kp5mxa should be renamed as 3KP5M.XA

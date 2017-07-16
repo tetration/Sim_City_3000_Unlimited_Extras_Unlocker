@@ -1,0 +1,3 @@
+This INI unlocks the SC2KBUG.XA in simcity 3000 music files, that is unplayable.
+
+After the program finishes transfering it to your Simcity 3000 Dir, you are free to delete this folder and its contents.
