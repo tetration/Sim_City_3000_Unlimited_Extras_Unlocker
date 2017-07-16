@@ -34,7 +34,7 @@ Steps:
 
 2: Place the Simcity3000_extras.java file along with all its directories in the main directory in your Simcity 3000 Unlimited
 
-3: run the terminal(linux version)/cmd(Windows version) and do cd until you are in the main directory of Simcity 3000 Unlimited 
+3:Run the terminal(Linux version)/cmd(Windows version) and type the CD command until you are in the main directory of Simcity 3000 Unlimited 
 
 4:Type in the terminal/cmd javac Simcity3000_extras.java 
 (Warning this step will only work if you have Java Oracle´s Developer kit installed!!!)
