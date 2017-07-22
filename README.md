@@ -35,11 +35,11 @@ Steps:
 3KP5M.XA = "Concrete Jungle" 
 
 
-2: Place the Simcity3000_extras.java file along with all its directories in the main directory in your Simcity 3000 Unlimited
+2: Place the src folder along with all its directories inside the main directory in your Simcity 3000 Unlimited
 
-3:Run the terminal(Linux version)/cmd(Windows version) and type the CD command until you are in the main directory of Simcity 3000 Unlimited 
+3:Run the terminal(Linux version)/cmd(Windows version) and type the CD command until you are in the main directory of Simcity 3000 Unlimited, then in the src folder inside the main directory of Simcity 3000 Unlimited
 
-4:Type in the terminal/cmd javac Simcity3000_extras.java 
+4: Once inside the src folder(with the .java file in it) type in the terminal/cmd javac Simcity3000_extras.java 
 (Warning this step will only work if you have Java Oracle´s Developer kit installed!!!)
 
 5:Now type in the terminal/cmd java Simcity3000_extras(without the .java) and the program will start if you have done everything correctly!)
